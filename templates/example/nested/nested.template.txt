@@ -1,0 +1,1 @@
+_UPPER_CAMEL_CASE_NAME_ nested outcome

@@ -1,0 +1,1 @@
+./replace.sh --argument "magnificent outcome" --type "example" --destination "../hereYouNeedToUseCorrent/Path/Names"

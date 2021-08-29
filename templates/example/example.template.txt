@@ -1,0 +1,7 @@
+Possible variables
+
+This is original name "_RAW_NAME_",
+but this UpperCamelCaseName: _UPPER_CAMEL_CASE_NAME_
+and this camelCaseName: _CAMEL_CASE_NAME_
+and this snake_case_name: _SNAKE_CASE_NAME_
+and at the end dash-case-name: _DASH_CASE_NAME_
