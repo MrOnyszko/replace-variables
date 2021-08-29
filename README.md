@@ -2,11 +2,13 @@
 
 ## The bash script allowing for creating templates
 
-## THe motivation 
+## The motivation 
 
 I use tamplates in the flutter development.
 
 Initially I wrote this in Kotlin, but I needed to use jar. Jar is closed and needs to be recompiled. I wondered if it's possible to write such a program in bash. I don't know how to write bash scripts, but with help of the internet I manage it. It wasn't a pleasant experience.
+
+```bash
 
 ➜  replace-variables ./replace.sh -h
 
@@ -32,3 +34,5 @@ _SNAKE_CASE_NAME_
 _DASH_CASE_NAME_
 
 Templates have to be in "templates" directory.
+
+```
